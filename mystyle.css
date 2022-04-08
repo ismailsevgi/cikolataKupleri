@@ -1,0 +1,57 @@
+body {
+    background-color: bisque;
+}
+.container {
+    display: flex;
+    
+}
+
+.div1 {
+    padding-left: 25px;
+}
+
+/* div2 started */
+.div2 {
+    display: flex;
+    font-weight: 1000;
+    justify-content: space-around;
+   
+}
+.div2 span {
+    color: rgb(139, 68, 68);
+}
+.div2 p {
+    color: red;
+}
+.div2 span2 {
+    color: rgb(30, 182, 56);
+}
+
+.div2 span3 {
+    color: aqua;
+}
+/* div2 ended */
+
+.boxShadowEx {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+h3 {
+    font-family: monospace;
+    font-size: x-large;
+    color: aliceblue;
+    background-color: brown;
+    border-radius: 5px;
+    width: 450px;
+    box-sizing: border-box;
+}
+#afiyet {
+    font-family: monospace;
+    text-align: right;
+}
+p {
+    position: static;
+    font-size: medium;
+    font-style: italic;
+    font-style: oblique;
+
+}   
